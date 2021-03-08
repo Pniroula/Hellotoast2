@@ -1,8 +1,7 @@
 
-Landscape 
-![Screenshot of landscape](Task1.2.png)
-Landscape
-![Screenshot of landscape](challenge.png)
+![Screenshot](Task2.1.png)
+![Screenshot](Task2.png)
+
 
 
 
